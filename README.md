@@ -44,9 +44,9 @@
 图1 – 1950–2023年多年平均年积温和年均气温空间分布图（a）活动积温 (°C·日)，（b）有效积温 (°C·日)，（c）年平均气温 (°C)。颜色刻度越暖表示温度越高或积温越大。
 
 <p align="center">
-  <img src="ERA/mode1_figures/annual_active_mean.png" alt="图1a：活动积温" width="32%"/>
-  <img src="ERA/mode1_figures/annual_effective_mean.png" alt="图1b：有效积温" width="32%"/>
-  <img src="ERA/mode1_figures/annual_mean_temp.png" alt="图1c：年平均气温" width="32%"/>
+  <img src="mode1_figures/annual_active_mean.png" alt="图1a：活动积温" width="32%"/>
+  <img src="mode1_figures/annual_effective_mean.png" alt="图1b：有效积温" width="32%"/>
+  <img src="mode1_figures/annual_mean_temp.png" alt="图1c：年平均气温" width="32%"/>
 </p>
 
 从图1可以看出：
@@ -62,9 +62,9 @@
 图2 – 1950–2023年年积温与年均温线性趋势（每10年变化率）。(a) 年活动积温趋势 (°C/10年)，(b) 年有效积温趋势 (°C/10年)，(c) 年平均气温趋势 (°C/10年)。红色表示上升（变暖或积温增加），蓝色表示下降；色阶单位为每十年的变化值。
 
 <p align="center">
-  <img src="ERA/mode1_figures/annual_active_trend.png" alt="图2a：年活动积温趋势" width="32%"/>
-  <img src="ERA/mode1_figures/annual_effective_trend.png" alt="图2b：年有效积温趋势" width="32%"/>
-  <img src="ERA/mode1_figures/annual_mean_trend.png" alt="图2c：年平均气温趋势" width="32%"/>
+  <img src="mode1_figures/annual_active_trend.png" alt="图2a：年活动积温趋势" width="32%"/>
+  <img src="mode1_figures/annual_effective_trend.png" alt="图2b：年有效积温趋势" width="32%"/>
+  <img src="mode1_figures/annual_mean_trend.png" alt="图2c：年平均气温趋势" width="32%"/>
 </p>
 
 从图2可以看出，**过去近74年间中国大部分地区的气温和积温均显著上升**，呈现出以下特点：
@@ -80,11 +80,11 @@
 气候变暖在不同季节的表现并不相同。图3展示了1950–2023年**四季（春夏秋冬）活动积温、有效积温和季节平均气温**的趋势率分布。由于季节积温值相对较小，我们采用每10年温度变化的单位（°C/10年）表示，实质上仍然代表对应季节累计的℃·日变化。
 
 <p align="center">
-  <img src="ERA/mode1_figures/seasonal_spring_mean_trend.png" alt="图3a：春季平均气温趋势" width="48%"/>
-  <img src="ERA/mode1_figures/seasonal_summer_mean_trend.png" alt="图3b：夏季平均气温趋势" width="48%"/>
+  <img src="mode1_figures/seasonal_spring_mean_trend.png" alt="图3a：春季平均气温趋势" width="48%"/>
+  <img src="mode1_figures/seasonal_summer_mean_trend.png" alt="图3b：夏季平均气温趋势" width="48%"/>
   <br/>
-  <img src="ERA/mode1_figures/seasonal_autumn_mean_trend.png" alt="图3c：秋季平均气温趋势" width="48%"/>
-  <img src="ERA/mode1_figures/seasonal_winter_mean_trend.png" alt="图3d：冬季平均气温趋势" width="48%"/>
+  <img src="mode1_figures/seasonal_autumn_mean_trend.png" alt="图3c：秋季平均气温趋势" width="48%"/>
+  <img src="mode1_figures/seasonal_winter_mean_trend.png" alt="图3d：冬季平均气温趋势" width="48%"/>
 </p>
 
 总体而言，**四个季节均呈增温增积温趋势，但冬季增幅最大，夏季次之，春秋相对较小**。这与我们对年均情况的分析相符（冬季升温快于夏季）。具体来看：
@@ -100,11 +100,11 @@
 为更精细地了解各月的气温变化，我们进一步分析了**1月至12月每个月**的平均温度和积温趋势。在此仅简要总结月尺度趋势的主要特征，图4给出了若干代表月份的趋势分布示意：
 
 <p align="center">
-  <img src="ERA/mode1_figures/monthly_01_mean_trend.png" alt="图4a：1月平均气温趋势" width="48%"/>
-  <img src="ERA/mode1_figures/monthly_04_mean_trend.png" alt="图4b：4月平均气温趋势" width="48%"/>
+  <img src="mode1_figures/monthly_01_mean_trend.png" alt="图4a：1月平均气温趋势" width="48%"/>
+  <img src="mode1_figures/monthly_04_mean_trend.png" alt="图4b：4月平均气温趋势" width="48%"/>
   <br/>
-  <img src="ERA/mode1_figures/monthly_07_mean_trend.png" alt="图4c：7月平均气温趋势" width="48%"/>
-  <img src="ERA/mode1_figures/monthly_10_mean_trend.png" alt="图4d：10月平均气温趋势" width="48%"/>
+  <img src="mode1_figures/monthly_07_mean_trend.png" alt="图4c：7月平均气温趋势" width="48%"/>
+  <img src="mode1_figures/monthly_10_mean_trend.png" alt="图4d：10月平均气温趋势" width="48%"/>
 </p>
 
 * **冬季月份（1月、2月、12月）：** 这三个月的变暖趋势最强烈，空间分布形态与上述冬季总体类似。以1月为例，东北、内蒙古一月平均气温升幅达到+0.6°C/10年左右，成为全年增温最快的月份之一，对应的1月积温（不少地区1月原本无有效积温）也开始出现增加迹象。在华北和西北地区，1月气温每10年升高约0.3–0.5℃。12月和2月的增温特征与1月类似，只是具体幅度略有差别，但总体都是**北方增温极显著、南方也有升温**。例如12月在新疆、甘肃、黑龙江等高纬高寒地区升温甚至超过0.6°C/10年。这些冬季月份的快速变暖意味着严寒天数的减少和暖冬出现频率增加。
@@ -119,7 +119,7 @@
 为了量化平均气温增温与积温增加之间的相关性，我们绘制了全国格点**年均温趋势率 vs. 年积温趋势率**的散点图（图5）。图5左图为**活动积温趋势**（x轴）与**年均温趋势**（y轴）的关系，右图为**有效积温趋势**（x轴）与**年均温趋势**（y轴）的关系。所有点代表研究区域内各网格格点的取值。
 
 <p align="center">
-  <img src="ERA/mode1_figures/temperature_accumulated_correlation.png" alt="图5：平均增温与积温变化的关系" width="60%"/>
+  <img src="mode1_figures/temperature_accumulated_correlation.png" alt="图5：平均增温与积温变化的关系" width="60%"/>
 </p>
 
 从散点分布可以看出，**多数格点集中在右上象限**，表明同时存在积温增加和气温上升，验证了我们之前的空间分析结论。更重要的是，点云大致呈线性分布，说明**年均温的增温幅度与年积温的增加量高度正相关**：积温增加越多的地方，平均气温也升高越明显。通过对散点进行线性回归，我们得到显著的相关关系：相关系数r接近1，回归线的斜率正且在统计上高度显著（p<0.01）。具体而言：
